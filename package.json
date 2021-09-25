@@ -11,6 +11,10 @@
     "build:esm": "tsc",
     "build:cjs": "tsc --module commonjs --outDir lib/cjs"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nirbenya/use-only-change-effect.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
